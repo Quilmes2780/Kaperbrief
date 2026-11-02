@@ -2,6 +2,8 @@
 
 Browser-Umsetzung des Brettspiels „Kaperbrief“: Freibeuter-Karriere in der Karibik im 17. Jahrhundert. Hotseat für 2–4 Spieler, jeder Platz Mensch oder KI.
 
+**Online spielen:** https://quilmes2780.github.io/Kaperbrief/ (wird bei jedem Push auf `main` neu gebaut)
+
 ## Starten
 
 ```
